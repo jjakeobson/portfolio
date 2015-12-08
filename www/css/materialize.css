@@ -1,8 +1,4 @@
-/*!
- * Materialize v0.97.1 (http://materializecss.com)
- * Copyright 2014-2015 Materialize
- * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
- */
+
 .materialize-red.lighten-5 {
   background-color: #fdeaeb !important; }
 
@@ -346,10 +342,10 @@
   color: #7e57c2 !important; }
 
 .deep-purple {
-  background-color: #673ab7 !important; }
+  background-color: #673AB7 !important; }
 
 .deep-purple-text {
-  color: #673ab7 !important; }
+  color: #673AB7 !important; }
 
 .deep-purple.darken-1 {
   background-color: #5e35b1 !important; }
@@ -514,10 +510,10 @@
   color: #42A5F5 !important; }
 
 .blue {
-  background-color: #2196F3 !important; }
+  background-color: #673AB7 !important; }
 
 .blue-text {
-  color: #2196F3 !important; }
+  color: #673AB7 !important; }
 
 .blue.darken-1 {
   background-color: #1E88E5 !important; }
@@ -934,10 +930,10 @@
   color: #9ccc65 !important; }
 
 .light-green {
-  background-color: #8bc34a !important; }
+  background-color: #673AB7 !important; }
 
 .light-green-text {
-  color: #8bc34a !important; }
+  color: #673AB7 !important; }
 
 .light-green.darken-1 {
   background-color: #7cb342 !important; }
